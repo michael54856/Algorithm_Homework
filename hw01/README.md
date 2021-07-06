@@ -17,4 +17,5 @@ Min = 1
 單純linear search
 
 # 排名
+![image](https://github.com/michael54856/Algorithm_Homework/blob/main/hw01/rank.png)
 
